@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": "acf1",
+      "empName": "SAI PINJALA",
+      "empSalary": "50000",
+      "empCompany": "abc"
+    },
+    {
+      "id": "07d9",
+      "empName": "virat",
+      "empSalary": "20000",
+      "empCompany": "rcb"
+    },
+    {
+      "id": "27c0",
+      "empName": "msd",
+      "empSalary": "50000",
+      "empCompany": "csk"
+    },
+    {
+      "id": "9678",
+      "empName": "saipinjala",
+      "empSalary": "20000",
+      "empCompany": "aabc"
+    }
+  ]
+}
